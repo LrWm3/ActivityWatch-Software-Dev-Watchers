@@ -8,7 +8,7 @@ Currently none of the watchers are implemented.
 
 | watcher | description | status |
 |--|--|--|
-| [i.py](./src/watchers/i.py) | Enter a memo into activity watch from the terminal. Inspired by [i](https://github.com/kungfusheep/i)| unimplemented | 
+| [i](./src/watchers/i.py) | Enter a memo into activity watch from the terminal. Inspired by [i](https://github.com/kungfusheep/i)| unimplemented | 
 | [git-commits](./src/watchers/git-commits.py) | Records git-commits as they are made to ActivityWatch | unimplemented |
 | [jira](./src/watchers/jira.py) | Records activity in Jira | unimplemented |
 | [confluence](./src/watchers/confluence.py) | Records activity in confluence | unimplmented |
